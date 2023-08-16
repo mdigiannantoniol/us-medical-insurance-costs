@@ -6,6 +6,7 @@ Data Loading and Overview:
 Imports necessary libraries (pandas, matplotlib.pyplot, seaborn).
 Loads the "insurance.csv" dataset into a DataFrame (df).
 Prints the first few rows of the DataFrame and its basic info using print(df.head()) and print(df.info()).
+
 Summary Statistics:
 
 Prints summary statistics of numeric columns using print(df.describe()).
